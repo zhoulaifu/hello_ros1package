@@ -1,7 +1,7 @@
 Minimal ROS package
 -------------------
 
-A ROS (Robot Operating System) package can contain anything else that logically constitutes a useful module, e.g. nodes, library, dataset, launch files. A minimal ROS package only needs to have a `package.xml`. This "minimal" package also includes a `CMakeLists.txt` and a C file `hello.c`.
+A ROS (Robot Operating System) package can contain anything else that logically constitutes a useful module, e.g. nodes, library, dataset, launch files. A minimal ROS package only needs to have a `package.xml`.   This "minimal" package also includes a `CMakeLists.txt` and a C file `hello.c`. You could have used `catkin_create` to quickly create a new package with some bolierplate texts and file structures. 
 
 #### How  to build
 
